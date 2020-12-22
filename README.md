@@ -2,8 +2,7 @@
 
 ## Stock App 
 
-This app has been created in React. It also has a backend in the following repo :
-https://github.com/aussenrist15/stock-app-backend
+A simple web app to keep records of stock and inventory of a small scale business. Frontend in React and backend in Express
 
 # How to run both together:
 
